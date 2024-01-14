@@ -2,6 +2,8 @@
 
 this is a go powered web ascii art generator made for Reboot01
 
+![Screen shot of the ascii generator](Screenshot.png)
+
 ## Usage
 to run this you need to use
 
